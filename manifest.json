@@ -1,0 +1,25 @@
+{
+  "short_name": "2022 Transit T250",
+  "name": "2022 Transit T250 For Sale",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "DSC09232.JPG",
+      "type": "image/jpg",
+      "sizes": "300x200"
+    },
+    {
+      "src": "DSC09271.JPG",
+      "type": "image/jpg",
+      "sizes": "512x193"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

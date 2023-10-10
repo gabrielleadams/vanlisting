@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/vanlisting/static/css/main.e6c13ad2.css",
+    "main.js": "/vanlisting/static/js/main.beb8ab6f.js",
+    "static/js/787.26cf6ac9.chunk.js": "/vanlisting/static/js/787.26cf6ac9.chunk.js",
+    "static/media/IMG_1653.JPG": "/vanlisting/static/media/IMG_1653.7455e774a1c548264ac2.JPG",
+    "static/media/IMG_1657.JPG": "/vanlisting/static/media/IMG_1657.5c0dfb6c3f8db60e0838.JPG",
+    "static/media/DSC09232.JPG": "/vanlisting/static/media/DSC09232.12aca9d729f17d0a20b0.JPG",
+    "static/media/IMG_1660.JPG": "/vanlisting/static/media/IMG_1660.c588bd6cd22c4690f333.JPG",
+    "static/media/IMG_1646.JPG": "/vanlisting/static/media/IMG_1646.0189546306d88ecb25b5.JPG",
+    "static/media/IMG_1658.JPG": "/vanlisting/static/media/IMG_1658.fea5962120be7674c74e.JPG",
+    "static/media/IMG_1655.JPG": "/vanlisting/static/media/IMG_1655.8f8d039e93ea6d6a0276.JPG",
+    "static/media/IMG_1647.JPG": "/vanlisting/static/media/IMG_1647.acbdab2410dcfb7670f0.JPG",
+    "static/media/IMG_1652.JPG": "/vanlisting/static/media/IMG_1652.bf7fdcc2797f83cf1cd8.JPG",
+    "static/media/IMG_1648.JPG": "/vanlisting/static/media/IMG_1648.1569b8bfa5968de13415.JPG",
+    "static/media/DSC09604.JPG": "/vanlisting/static/media/DSC09604.a4c85ab90b68cb33ac63.JPG",
+    "static/media/DSC09271.JPG": "/vanlisting/static/media/DSC09271.00694d77feef8d2ececd.JPG",
+    "static/media/IMG_1659.JPG": "/vanlisting/static/media/IMG_1659.c4c7354e38d1c9ff94fc.JPG",
+    "static/media/DSC09638.JPG": "/vanlisting/static/media/DSC09638.eaf2ce416d74eeff11c9.JPG",
+    "static/media/DSC09632.JPG": "/vanlisting/static/media/DSC09632.cbf215328a3b1d406078.JPG",
+    "static/media/DSC09641.JPG": "/vanlisting/static/media/DSC09641.366bf149bbdb61f8de14.JPG",
+    "static/media/DSC09657.JPG": "/vanlisting/static/media/DSC09657.ab0f6e31b52901399af9.JPG",
+    "static/media/DSC09601.JPG": "/vanlisting/static/media/DSC09601.12dda872ff8258733c2e.JPG",
+    "static/media/DSC09671.JPG": "/vanlisting/static/media/DSC09671.8af18493e6957f214311.JPG",
+    "static/media/DSC09653.JPG": "/vanlisting/static/media/DSC09653.7ace82941a4828c6c03e.JPG",
+    "static/media/DSC09660.JPG": "/vanlisting/static/media/DSC09660.013ca3948fd075f53d4d.JPG",
+    "static/media/DSC09669.JPG": "/vanlisting/static/media/DSC09669.95af9520affb6d5b7ede.JPG",
+    "static/media/016D74AF-8ABA-4B54-B38E-2D4AF7C1FB57.JPG": "/vanlisting/static/media/016D74AF-8ABA-4B54-B38E-2D4AF7C1FB57.43c78ccba3863507c312.JPG",
+    "index.html": "/vanlisting/index.html",
+    "main.e6c13ad2.css.map": "/vanlisting/static/css/main.e6c13ad2.css.map",
+    "main.beb8ab6f.js.map": "/vanlisting/static/js/main.beb8ab6f.js.map",
+    "787.26cf6ac9.chunk.js.map": "/vanlisting/static/js/787.26cf6ac9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.beb8ab6f.js"
+  ]
+}
