@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vanlisting/static/css/main.e6c13ad2.css",
-    "main.js": "/vanlisting/static/js/main.beb8ab6f.js",
+    "main.js": "/vanlisting/static/js/main.e222fc0e.js",
     "static/js/787.26cf6ac9.chunk.js": "/vanlisting/static/js/787.26cf6ac9.chunk.js",
     "static/media/IMG_1653.JPG": "/vanlisting/static/media/IMG_1653.7455e774a1c548264ac2.JPG",
     "static/media/IMG_1657.JPG": "/vanlisting/static/media/IMG_1657.5c0dfb6c3f8db60e0838.JPG",
@@ -28,11 +28,11 @@
     "static/media/016D74AF-8ABA-4B54-B38E-2D4AF7C1FB57.JPG": "/vanlisting/static/media/016D74AF-8ABA-4B54-B38E-2D4AF7C1FB57.43c78ccba3863507c312.JPG",
     "index.html": "/vanlisting/index.html",
     "main.e6c13ad2.css.map": "/vanlisting/static/css/main.e6c13ad2.css.map",
-    "main.beb8ab6f.js.map": "/vanlisting/static/js/main.beb8ab6f.js.map",
+    "main.e222fc0e.js.map": "/vanlisting/static/js/main.e222fc0e.js.map",
     "787.26cf6ac9.chunk.js.map": "/vanlisting/static/js/787.26cf6ac9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.beb8ab6f.js"
+    "static/js/main.e222fc0e.js"
   ]
 }
